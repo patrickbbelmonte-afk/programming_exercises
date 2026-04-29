@@ -1,0 +1,20 @@
+Juan Dela Cruz,1.75
+Maria Santos,1.50
+Pedro Reyes,2.00
+Ana Lopez,1.25
+John Garcia,1.90
+Carla Mendoza,1.60
+Miguel Torres,2.25
+Sofia Ramos,1.40
+Luis Fernandez,1.85
+Isabella Cruz,1.30
+Mark Villanueva,2.10
+Angela Bautista,1.55
+Daniel Aquino,1.95
+Nicole Flores,1.20
+Joseph Navarro,2.00
+Paula Castillo,1.35
+Kevin Rivera,1.80
+Chloe Domingo,1.45
+Ethan Lim,2.30
+Gabrielle Sy,1.10
